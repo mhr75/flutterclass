@@ -1,0 +1,116 @@
+{
+  "project_info": {
+    "project_number": "878556964695",
+    "project_id": "take-a-bite-v3",
+    "storage_bucket": "take-a-bite-v3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878556964695:android:63b586e17774980a5d0012",
+        "android_client_info": {
+          "package_name": "com.mechaboo.takeabitepanel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "878556964695-41t2829bjjlku9g1vlv1qdnfvq5jhkvb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mechaboo.takeabitepanel",
+            "certificate_hash": "527cc20353e19d6267721727375978924fefadea"
+          }
+        },
+        {
+          "client_id": "878556964695-4h7acg8eagl5jfhvtmsl4g1e4kf661u1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mechaboo.takeabitepanel",
+            "certificate_hash": "21552f1891be12a3ff05beb3680a1c91acfcc93e"
+          }
+        },
+        {
+          "client_id": "878556964695-juv5bpcj0f0bsl0mkr0ajgvhlva0ibmh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mechaboo.takeabitepanel",
+            "certificate_hash": "b90d9bab1904c2c5bcc6ce29c4f4fe9f5421c14c"
+          }
+        },
+        {
+          "client_id": "878556964695-isfp347v4348pnvdd36vsmrha2au0odu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdeXMAO37-0xbDOeMK-PmPKFnrQe3Ti2w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "878556964695-isfp347v4348pnvdd36vsmrha2au0odu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878556964695:android:41bf6619d9f3cb625d0012",
+        "android_client_info": {
+          "package_name": "com.mechaboo.takeabitev3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "878556964695-oaquajtmb0vqctokfs29rlt6t9268k4d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mechaboo.takeabitev3",
+            "certificate_hash": "527cc20353e19d6267721727375978924fefadea"
+          }
+        },
+        {
+          "client_id": "878556964695-ouocgr7vug7c3snubp06smpfl1ni4i2b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mechaboo.takeabitev3",
+            "certificate_hash": "21552f1891be12a3ff05beb3680a1c91acfcc93e"
+          }
+        },
+        {
+          "client_id": "878556964695-tk11oi0d2t1f4ht264j2cshhpep0v7hh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mechaboo.takeabitev3",
+            "certificate_hash": "b90d9bab1904c2c5bcc6ce29c4f4fe9f5421c14c"
+          }
+        },
+        {
+          "client_id": "878556964695-isfp347v4348pnvdd36vsmrha2au0odu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdeXMAO37-0xbDOeMK-PmPKFnrQe3Ti2w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "878556964695-isfp347v4348pnvdd36vsmrha2au0odu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
